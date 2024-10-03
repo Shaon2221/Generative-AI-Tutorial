@@ -30,7 +30,7 @@ Here are some of my latest videos, covering essential Generative AI concepts. Cl
 
 ---
 
-### [প্রম্পট ইঞ্জিনিয়ারিং(Prompt Engineering) | জেনারেটিভ এআই বাংলা টিউটোরিয়াল](https://www.youtube.com/watch?v=wnpU8DmSWAc)
+### [প্রম্পট ইঞ্জিনিয়ারিং (Prompt Engineering) | জেনারেটিভ এআই বাংলা টিউটোরিয়াল](https://www.youtube.com/watch?v=wnpU8DmSWAc)
 [![Prompt Engineering](https://i.ytimg.com/vi/wnpU8DmSWAc/hqdefault.jpg)](https://www.youtube.com/watch?v=wnpU8DmSWAc)
 
 ---
@@ -65,3 +65,15 @@ Learn more about my work and projects by visiting my portfolio.
 Connect with me on LinkedIn for updates on my latest work and collaborations.
 
 ---
+
+## LogicZen AI and Data Discovery 🌐
+This tutorial series is part of **LogicZen AI**(provide custom AI solutions for business) and **Data Discovery**(Tutorial/Educational Content on AI), initiatives focused on making advanced AI education accessible in **Bangla**.
+
+---
+
+🔗 Connect with us on Social Media:
+- LinkedIn: [LogicZen AI](https://www.linkedin.com/company/logiczen-ai)
+- Twitter: [@LogicZenAI](https://twitter.com/@UCUzijDK_-cx7YHodMGh1JXQ)
+- Facebook: [LogicZen AI](https://facebook.com/logiczenai)
+- Website: [LogicZen AI](https://www.logiczen.ai)
+- Email: hello@logiczen.ai
